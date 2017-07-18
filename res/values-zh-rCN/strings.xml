@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <!--
  Copyright (c) 2014 Amlogic, Inc. All rights reserved.
 
@@ -7,7 +9,6 @@
  Description: manifest
 -->
 
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string name="app_name">数据完整性保护</string>
